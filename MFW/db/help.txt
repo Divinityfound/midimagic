@@ -1,0 +1,8 @@
+dbActions = Aggregates all the files together so nothing is missed and everything is readily available.
+dbConnect = Connects to the database
+dbCount = Counts rows fitting a pattern.
+dbDelete = Delete row(s)
+dbInsert = Add row
+dbSelect = Select row(s)
+dbUpdate = Updates existing rows
+dbWork = Base class to be extended.

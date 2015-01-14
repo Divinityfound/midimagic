@@ -1,0 +1,5 @@
+bl = Business Logic
+cm = Combo Maps
+db = Database
+global = Universal Files
+modules = Objects and Classes
