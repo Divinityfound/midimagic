@@ -1,5 +1,4 @@
 <?php
-	require_once("/../global/config.php");
 	
 	if (ENVIRONMENT == "DEV")
 	{

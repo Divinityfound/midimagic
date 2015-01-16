@@ -1,5 +1,5 @@
 <?php
-	require_once("/../config.shortcut.php");
+	require_once(dirname(__FILE__)."/../config.shortcut.php");
 	require_once("setObject.php");
 ?>
 <!DOCTYPE HTML>

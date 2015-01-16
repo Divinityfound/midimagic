@@ -1,5 +1,5 @@
 <?php
-	require(dirname(__FILE__)."\..\bl\mailer\class.phpmailer.php");
+	require_once(dirname(__FILE__)."/mailer/class.phpmailer.php");
 	class email
 	{
 		var $subjects = array(

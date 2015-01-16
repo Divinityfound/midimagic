@@ -1,7 +1,0 @@
-Prefix		=	a-e
-Gender		=	f
-Product Type=	g
-Product ID	=	h-k
-
-abcdefghijk
-#SKU-FD0032

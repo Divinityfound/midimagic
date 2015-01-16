@@ -49,7 +49,7 @@
 			while ($row = mysql_fetch_array($results))
 			{
 				$folder = $row["folder"]."/";
-				require_once("/../".$folder.$row["file"].".class.php");
+				require_once(dirname(__FILE__)."/../".$folder.$row["file"].".class.php");
 			}
 		}
 	}
